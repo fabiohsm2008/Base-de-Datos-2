@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1524027198 source:d:\trabajos 5to semestre\base de datos ii\sgbd\main.cpp
+	<iostream>
+	<typeinfo>
+	<vector>
+	<algorithm>
+	<conio.h>
+	<fstream>
+	<sstream>
+
